@@ -24,7 +24,9 @@ const blogPosts = [
     conteudo: "Anotações do nosso primeiro dia aqui em Betshire.",
     comentarios: [
       { autor: "Gabriel", texto: "First" },
-      { autor: "Cris", texto: "Esses ai inventam cada uma" }
+      { autor: "Cris", texto: "Esses ai inventam cada uma" },
+      { autor: "Sam", texto: "Você quer dizer Berkshire?"},
+      { autor: "Yume", texto: "Um espirito da tempestade parece uma coisa interessante de se buscar"},
     ]
   },
   {
@@ -35,6 +37,8 @@ const blogPosts = [
     comentarios: [
       { autor: "Beto", texto: "Isso ai deve ser alguem pregando uma peça em vocês" },
       { autor: "Cris", texto: "Você tem mania de achar mistério em tudo. É só uma fita velha." },
+      { autor: "Yume", texto: "Acho que aquela caixa estranha realmente tinha um propósito então, parece uma aventura"},
+      { autor: "Phobetor", texto: "RSB0dWRvIGNvbWXDp291IGNvbSB1bSDDum5pY28gbGl2cm8uIE1hbGRpdGEgc2VqYSBhIHZlbGhhIEVzcGlyYWwg" },
     ]
   },
   {
@@ -51,6 +55,8 @@ const blogPosts = [
       { autor: "Duda", texto: "Cara, isso é assustador!" },
       { autor: "Renato Boe", texto: "Eu falo, isso deve ser algum aliem" },
       { autor: "José Fitas", texto: "Renato, eu já falei que aliem não existe! Isso claramente é uma criatura sobrenatural." },
+      { autor: "Zach", texto: "Alguém andou se divertindo demais no mundo entre mundos" },
+      { autor: "Black", texto: "Um espaço infinito né ? Tipo o fim de uma espiral ou a golden ratio. Parece legal" },
     ]
   },
   {
