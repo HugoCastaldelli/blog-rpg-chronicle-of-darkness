@@ -39,7 +39,7 @@ const blogPosts = [
       { autor: "Cris", texto: "Você tem mania de achar mistério em tudo. É só uma fita velha." },
       { autor: "Yume", texto: "Acho que aquela caixa estranha realmente tinha um propósito então, parece uma aventura"},
       { autor: "Phobetor", texto: "RSB0dWRvIGNvbWXDp291IGNvbSB1bSDDum5pY28gbGl2cm8uIE1hbGRpdGEgc2VqYSBhIHZlbGhhIEVzcGlyYWwg" },
-      { autor: "Broski", texto: "Cara doidão falando e código morse"
+      { autor: "Broski", texto: "Cara doidão falando e código morse" },
     ]
   },
   {
